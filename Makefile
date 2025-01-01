@@ -1,2 +1,2 @@
-eon: main.c
-	$(CC) main.c -o eon -Wall -Wextra -pedantic -std=c99
+macro: main.c
+	$(CC) main.c -o macro -Wall -Wextra -pedantic -std=c99
